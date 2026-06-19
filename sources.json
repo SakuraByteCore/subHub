@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qist",
+    "name": "Qist",
+    "url": "https://qist.wyfc.qzz.io/jsm.json",
+    "priority": 10,
+    "enabled": true,
+    "note": "Primary source"
+  },
+  {
+    "id": "jinenge",
+    "name": "Jinenge",
+    "url": "https://jinenge.us.kg/app/tvbox/tvbox.json",
+    "priority": 20,
+    "enabled": true,
+    "note": "Supplemental source; upstream file contains leading // comments"
+  }
+]

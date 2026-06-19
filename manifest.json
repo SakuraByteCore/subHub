@@ -1,0 +1,45 @@
+{
+  "built_at": "2026-06-19T09:29:51+00:00",
+  "sources": [
+    {
+      "id": "qist",
+      "name": "Qist",
+      "url": "https://qist.wyfc.qzz.io/jsm.json",
+      "priority": 10,
+      "ok": true,
+      "counts": {
+        "sites": 164,
+        "lives": 3,
+        "parses": 29,
+        "rules": 19,
+        "doh": 5,
+        "hosts": 5,
+        "flags": 61,
+        "ads": 118
+      }
+    },
+    {
+      "id": "jinenge",
+      "name": "Jinenge",
+      "url": "https://jinenge.us.kg/app/tvbox/tvbox.json",
+      "priority": 20,
+      "ok": true,
+      "counts": {
+        "sites": 42,
+        "lives": 7,
+        "rules": 1,
+        "hosts": 2
+      }
+    }
+  ],
+  "counts": {
+    "sites": 206,
+    "lives": 10,
+    "parses": 29,
+    "hosts": 7,
+    "flags": 61,
+    "doh": 5,
+    "rules": 20,
+    "ads": 60
+  }
+}
