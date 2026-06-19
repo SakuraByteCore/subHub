@@ -8,15 +8,16 @@
 
 ### TVBox
 
-推荐使用 jsDelivr 链接，国内环境通常比 `raw.githubusercontent.com` 更稳：
+推荐使用 GitHub Pages 固定入口，客户只需要填写一次：
+
+```text
+https://sakurabytecore.github.io/subHub/tvbox.json
+```
+
+CDN 备用链接：
 
 ```text
 https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/tvbox.json
-```
-
-备用链接：
-
-```text
 https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/tvbox.json
 https://gcore.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/tvbox.json
 https://raw.githubusercontent.com/SakuraByteCore/subHub/main/tvbox.json

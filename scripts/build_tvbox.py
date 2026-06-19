@@ -39,7 +39,7 @@ NOTICE_SITE = {
     "name": "subHub | 公共订阅聚合",
     "type": 3,
     "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
-    "ext": "https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/lib/subhub_notice.js",
+    "ext": "https://sakurabytecore.github.io/subHub/lib/subhub_notice.js",
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 1,
