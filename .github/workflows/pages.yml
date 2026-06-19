@@ -50,6 +50,8 @@ jobs:
           cp lib/subhub_notice.js /tmp/subhub-pages/lib/subhub_notice.js
 
       - name: Publish gh-pages branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
