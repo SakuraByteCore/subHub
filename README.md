@@ -8,11 +8,13 @@
 
 ### TVBox
 
-推荐使用 GitHub Pages 固定入口，客户只需要填写一次：
+推荐使用 GitHub Pages 固定入口，客户只需要填写一次。Pages 启用后地址为：
 
 ```text
 https://sakurabytecore.github.io/subHub/tvbox.json
 ```
+
+如果该地址暂时返回 404，说明仓库 Pages 还未在 Settings 中启用；本仓库已经提交 GitHub Actions 部署配置和 `gh-pages` 备用分支。
 
 CDN 备用链接：
 
