@@ -34,6 +34,16 @@ URL_FIELDS = {
 
 ARRAY_KEYS = ("sites", "lives", "parses", "rules", "doh")
 SET_KEYS = ("hosts", "flags", "ads")
+NOTICE_SITE = {
+    "key": "subHub_notice",
+    "name": "subHub | 公共订阅聚合",
+    "type": 3,
+    "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
+    "ext": "https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub@main/lib/subhub_notice.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+}
 
 
 def strip_full_line_json_comments(text: str) -> str:
@@ -180,6 +190,15 @@ def attach_source_jar_to_sites(data: dict[str, Any]) -> None:
             site["jar"] = jar
 
 
+def add_notice_site(merged: dict[str, Any]) -> None:
+    sites = merged.setdefault("sites", [])
+    sites[:] = [site for site in sites if not (isinstance(site, dict) and site.get("key") == NOTICE_SITE["key"])]
+    notice = copy.deepcopy(NOTICE_SITE)
+    if isinstance(merged.get("spider"), str):
+        notice["jar"] = merged["spider"]
+    sites.insert(0, notice)
+
+
 def load_sources() -> list[dict[str, Any]]:
     sources = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
     enabled = [source for source in sources if source.get("enabled", True)]
@@ -252,6 +271,9 @@ def build() -> tuple[dict[str, Any], dict[str, Any]]:
                     merged[key].append(item)
 
         manifest["sources"].append(source_status)
+
+    add_notice_site(merged)
+    manifest["generated"] = {"notice_site": NOTICE_SITE["key"]}
 
     for key in ["sites", "lives", "parses", "hosts", "flags", "doh", "rules", "ads"]:
         if key in merged:

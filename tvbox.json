@@ -1,6 +1,17 @@
 {
   "sites": [
     {
+      "key": "subHub_notice",
+      "name": "subHub | 公共订阅聚合",
+      "type": 3,
+      "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub@main/lib/subhub_notice.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;e727792f1b1d3c983e3026ce633b9ad5"
+    },
+    {
       "key": "drpy_js_豆瓣",
       "name": "搜索 | 豆瓣[js]",
       "type": 3,

@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-06-19T10:50:33+00:00",
+  "built_at": "2026-06-19T11:33:23+00:00",
   "sources": [
     {
       "id": "qist",
@@ -33,7 +33,7 @@
     }
   ],
   "counts": {
-    "sites": 206,
+    "sites": 207,
     "lives": 10,
     "parses": 29,
     "hosts": 7,
@@ -41,5 +41,8 @@
     "doh": 5,
     "rules": 20,
     "ads": 60
+  },
+  "generated": {
+    "notice_site": "subHub_notice"
   }
 }
