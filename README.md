@@ -11,14 +11,14 @@
 推荐使用 jsDelivr 链接，国内环境通常比 `raw.githubusercontent.com` 更稳：
 
 ```text
-https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json
+https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub/tvbox.json
 ```
 
 备用链接：
 
 ```text
-https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json
-https://gcore.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json
+https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub/tvbox.json
+https://gcore.jsdelivr.net/gh/SakuraByteCore/subHub/tvbox.json
 https://raw.githubusercontent.com/SakuraByteCore/subHub/main/tvbox.json
 ```
 
