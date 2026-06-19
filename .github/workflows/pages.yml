@@ -1,4 +1,4 @@
-name: Deploy GitHub Pages
+name: Publish GitHub Pages
 
 on:
   workflow_dispatch:
@@ -15,23 +15,20 @@ on:
       - .github/workflows/pages.yml
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,21 +41,27 @@ jobs:
       - name: Prepare static site
         run: |
           set -euo pipefail
-          mkdir -p public/lib
-          cp tvbox.json public/tvbox.json
-          cp manifest.json public/manifest.json
-          cp lib/subhub_notice.js public/lib/subhub_notice.js
+          rm -rf /tmp/subhub-pages
+          mkdir -p /tmp/subhub-pages/lib
+          cp public/index.html /tmp/subhub-pages/index.html
+          touch /tmp/subhub-pages/.nojekyll
+          cp tvbox.json /tmp/subhub-pages/tvbox.json
+          cp manifest.json /tmp/subhub-pages/manifest.json
+          cp lib/subhub_notice.js /tmp/subhub-pages/lib/subhub_notice.js
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish gh-pages branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf /tmp/subhub-gh-pages
+          git clone --branch gh-pages --single-branch "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/subhub-gh-pages
+          rsync -a --delete --exclude .git /tmp/subhub-pages/ /tmp/subhub-gh-pages/
+          cd /tmp/subhub-gh-pages
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No Pages changes to publish."
+            exit 0
+          fi
+          git commit -m "chore(pages): publish static subscription files"
+          git push origin gh-pages
