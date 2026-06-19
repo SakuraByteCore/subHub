@@ -5,7 +5,8 @@
     "url": "https://qist.wyfc.qzz.io/jsm.json",
     "priority": 10,
     "enabled": true,
-    "note": "Primary source"
+    "note": "Primary source",
+    "type": "tvbox"
   },
   {
     "id": "jinenge",
@@ -13,6 +14,7 @@
     "url": "https://jinenge.us.kg/app/tvbox/tvbox.json",
     "priority": 20,
     "enabled": true,
-    "note": "Supplemental source; upstream file contains leading // comments"
+    "note": "Supplemental source; upstream file contains leading // comments",
+    "type": "tvbox"
   }
 ]

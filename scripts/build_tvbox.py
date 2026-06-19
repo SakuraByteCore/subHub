@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES_FILE = ROOT / "sources.json"
 OUTPUT_FILE = ROOT / "tvbox.json"
 MANIFEST_FILE = ROOT / "manifest.json"
-USER_AGENT = "SakuraByteCore-xx-builder/1.0 (+https://github.com/SakuraByteCore/tvbox-hub)"
+USER_AGENT = "SakuraByteCore-sub-hub-tvbox-builder/1.0 (+https://github.com/SakuraByteCore/sub-hub)"
 
 URL_FIELDS = {
     "api",

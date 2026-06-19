@@ -1,47 +1,51 @@
-# TVBox Hub
+# Sub Hub
 
-公共 TVBox 订阅聚合入口，把多个公开 TVBox 配置源合并成一个可直接使用的订阅地址，减少手动切源。
+公共订阅与配置源聚合入口。项目会把多个公开来源规范化、去重并生成可直接使用的订阅/配置文件。
 
-## 订阅地址
+当前第一类输出是 TVBox 配置；后续可以继续扩展到 IPTV、代理订阅、其它客户端配置等类型。
+
+## 当前可用输出
+
+### TVBox
 
 推荐使用 jsDelivr 链接，国内环境通常比 `raw.githubusercontent.com` 更稳：
 
 ```text
-https://cdn.jsdelivr.net/gh/SakuraByteCore/tvbox-hub@main/tvbox.json
+https://cdn.jsdelivr.net/gh/SakuraByteCore/sub-hub@main/tvbox.json
 ```
 
 备用链接：
 
 ```text
-https://fastly.jsdelivr.net/gh/SakuraByteCore/tvbox-hub@main/tvbox.json
-https://gcore.jsdelivr.net/gh/SakuraByteCore/tvbox-hub@main/tvbox.json
-https://raw.githubusercontent.com/SakuraByteCore/tvbox-hub/main/tvbox.json
+https://fastly.jsdelivr.net/gh/SakuraByteCore/sub-hub@main/tvbox.json
+https://gcore.jsdelivr.net/gh/SakuraByteCore/sub-hub@main/tvbox.json
+https://raw.githubusercontent.com/SakuraByteCore/sub-hub/main/tvbox.json
 ```
 
 ## 当前内容
 
 当前生成结果见 [`manifest.json`](./manifest.json)。截至最近一次生成：
 
-- 站点源：206 个
-- 直播源：10 个
-- 解析接口：29 个
-- 规则：20 条
+- TVBox 站点源：206 个
+- TVBox 直播源：10 个
+- TVBox 解析接口：29 个
+- TVBox 规则：20 条
 
 ## 当前来源
 
 来源配置见 [`sources.json`](./sources.json)：
 
-- `qist`: `https://qist.wyfc.qzz.io/jsm.json`
-- `jinenge`: `https://jinenge.us.kg/app/tvbox/tvbox.json`
+- `qist` (`tvbox`): `https://qist.wyfc.qzz.io/jsm.json`
+- `jinenge` (`tvbox`): `https://jinenge.us.kg/app/tvbox/tvbox.json`
 
 ## 使用方法
 
-1. 复制上面的推荐订阅地址。
-2. 打开支持 TVBox 配置的客户端。
+1. 复制上面的对应输出链接。
+2. 打开支持该配置类型的客户端。
 3. 在配置/接口/订阅地址处粘贴链接。
 4. 保存并刷新。
 
-## 合并规则
+## TVBox 合并规则
 
 - `sites`: 优先按 `key` 去重；同 key 但内容不同会给后加入的源加来源前缀，尽量保留两边内容。
 - `lives`: 按 `name + url` 去重。
@@ -52,7 +56,7 @@ https://raw.githubusercontent.com/SakuraByteCore/tvbox-hub/main/tvbox.json
 
 ## 自动更新
 
-GitHub Actions 会定时运行 [`scripts/build_tvbox.py`](./scripts/build_tvbox.py)，重新抓取来源并生成：
+GitHub Actions 会定时运行 [`scripts/build_tvbox.py`](./scripts/build_tvbox.py)，重新抓取 TVBox 来源并生成：
 
 - [`tvbox.json`](./tvbox.json): TVBox 可直接使用的订阅配置
 - [`manifest.json`](./manifest.json): 本次生成的来源状态和合并统计
@@ -71,6 +75,7 @@ python3 scripts/build_tvbox.py
 {
   "id": "example",
   "name": "Example",
+  "type": "tvbox",
   "url": "https://example.com/tvbox.json",
   "priority": 30,
   "enabled": true,
@@ -84,7 +89,18 @@ python3 scripts/build_tvbox.py
 python3 scripts/build_tvbox.py
 ```
 
-确认 `tvbox.json` 和 `manifest.json` 正常生成后提交即可。
+确认输出文件正常生成后提交即可。
+
+## 后续扩展方向
+
+当前仓库没有把边界锁死在 TVBox。后续可以按类型增加新的生成器和输出文件，例如：
+
+- `dist/iptv.m3u`
+- `dist/mihomo.yaml`
+- `dist/sing-box.json`
+- `dist/tvbox.json`
+
+根目录的 `tvbox.json` 会先保留，避免破坏已经在用的订阅地址。
 
 ## 说明
 
