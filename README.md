@@ -1,4 +1,4 @@
-# Sub Hub
+# subHub
 
 公共订阅与配置源聚合入口。项目会把多个公开来源规范化、去重并生成可直接使用的订阅/配置文件。
 
@@ -11,15 +11,15 @@
 推荐使用 jsDelivr 链接，国内环境通常比 `raw.githubusercontent.com` 更稳：
 
 ```text
-https://cdn.jsdelivr.net/gh/SakuraByteCore/sub-hub@main/tvbox.json
+https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json
 ```
 
 备用链接：
 
 ```text
-https://fastly.jsdelivr.net/gh/SakuraByteCore/sub-hub@main/tvbox.json
-https://gcore.jsdelivr.net/gh/SakuraByteCore/sub-hub@main/tvbox.json
-https://raw.githubusercontent.com/SakuraByteCore/sub-hub/main/tvbox.json
+https://fastly.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json
+https://gcore.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json
+https://raw.githubusercontent.com/SakuraByteCore/subHub/main/tvbox.json
 ```
 
 ## 当前内容
