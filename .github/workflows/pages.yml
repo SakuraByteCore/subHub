@@ -8,7 +8,6 @@ on:
     paths:
       - tvbox.json
       - manifest.json
-      - lib/**
       - public/**
       - scripts/**
       - sources.json
@@ -42,12 +41,11 @@ jobs:
         run: |
           set -euo pipefail
           rm -rf /tmp/subhub-pages
-          mkdir -p /tmp/subhub-pages/lib
+          mkdir -p /tmp/subhub-pages
           cp public/index.html /tmp/subhub-pages/index.html
           touch /tmp/subhub-pages/.nojekyll
           cp tvbox.json /tmp/subhub-pages/tvbox.json
           cp manifest.json /tmp/subhub-pages/manifest.json
-          cp lib/subhub_notice.js /tmp/subhub-pages/lib/subhub_notice.js
 
       - name: Publish gh-pages branch
         env:

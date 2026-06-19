@@ -40,11 +40,8 @@ jobs:
           set -euo pipefail
           for url in \
             https://purge.jsdelivr.net/gh/SakuraByteCore/subHub/tvbox.json \
-            https://purge.jsdelivr.net/gh/SakuraByteCore/subHub/lib/subhub_notice.js \
             https://purge.jsdelivr.net/gh/SakuraByteCore/subHub@main/tvbox.json \
-            https://purge.jsdelivr.net/gh/SakuraByteCore/subHub@main/lib/subhub_notice.js \
-            https://purge.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/tvbox.json \
-            https://purge.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/lib/subhub_notice.js
+            https://purge.jsdelivr.net/gh/SakuraByteCore/subHub@refs/heads/main/tvbox.json
           do
             echo "Purging $url"
             curl --fail --silent --show-error --retry 3 --retry-delay 2 "$url" || echo "::warning::Failed to purge $url"

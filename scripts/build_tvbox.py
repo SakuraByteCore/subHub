@@ -34,15 +34,8 @@ URL_FIELDS = {
 
 ARRAY_KEYS = ("sites", "lives", "parses", "rules", "doh")
 SET_KEYS = ("hosts", "flags", "ads")
-NOTICE_SITE = {
-    "key": "subHub_notice",
-    "name": "subHub | 公共订阅聚合",
-    "type": 3,
-    "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
-    "ext": "https://sakurabytecore.github.io/subHub/lib/subhub_notice.js",
-    "searchable": 1,
-    "quickSearch": 0,
-    "changeable": 1,
+SITE_NAME_OVERRIDES = {
+    "drpy_js_豆瓣": "subHub | 搜索入口",
 }
 
 
@@ -190,13 +183,12 @@ def attach_source_jar_to_sites(data: dict[str, Any]) -> None:
             site["jar"] = jar
 
 
-def add_notice_site(merged: dict[str, Any]) -> None:
-    sites = merged.setdefault("sites", [])
-    sites[:] = [site for site in sites if not (isinstance(site, dict) and site.get("key") == NOTICE_SITE["key"])]
-    notice = copy.deepcopy(NOTICE_SITE)
-    if isinstance(merged.get("spider"), str):
-        notice["jar"] = merged["spider"]
-    sites.insert(0, notice)
+def apply_site_overrides(site: dict[str, Any]) -> dict[str, Any]:
+    key = site.get("key")
+    if isinstance(key, str) and key in SITE_NAME_OVERRIDES:
+        site = copy.deepcopy(site)
+        site["name"] = SITE_NAME_OVERRIDES[key]
+    return site
 
 
 def load_sources() -> list[dict[str, Any]]:
@@ -252,7 +244,7 @@ def build() -> tuple[dict[str, Any], dict[str, Any]]:
 
         for item in data.get("sites", []):
             if isinstance(item, dict):
-                add_site(merged["sites"], site_keys, item, source)
+                add_site(merged["sites"], site_keys, apply_site_overrides(item), source)
         for item in data.get("lives", []):
             if isinstance(item, dict):
                 add_live(merged["lives"], live_keys, item)
@@ -272,8 +264,7 @@ def build() -> tuple[dict[str, Any], dict[str, Any]]:
 
         manifest["sources"].append(source_status)
 
-    add_notice_site(merged)
-    manifest["generated"] = {"notice_site": NOTICE_SITE["key"]}
+    manifest["generated"] = {"site_name_overrides": SITE_NAME_OVERRIDES}
 
     for key in ["sites", "lives", "parses", "hosts", "flags", "doh", "rules", "ads"]:
         if key in merged:

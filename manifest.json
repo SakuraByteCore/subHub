@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-06-19T13:17:32+00:00",
+  "built_at": "2026-06-19T15:30:55+00:00",
   "sources": [
     {
       "id": "qist",
@@ -33,7 +33,7 @@
     }
   ],
   "counts": {
-    "sites": 207,
+    "sites": 206,
     "lives": 10,
     "parses": 29,
     "hosts": 7,
@@ -43,6 +43,8 @@
     "ads": 60
   },
   "generated": {
-    "notice_site": "subHub_notice"
+    "site_name_overrides": {
+      "drpy_js_豆瓣": "subHub | 搜索入口"
+    }
   }
 }

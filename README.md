@@ -29,11 +29,11 @@ https://raw.githubusercontent.com/SakuraByteCore/subHub/main/tvbox.json
 
 当前生成结果见 [`manifest.json`](./manifest.json)。截至最近一次生成：
 
-- TVBox 站点源：207 个
+- TVBox 站点源：206 个
 - TVBox 直播源：10 个
 - TVBox 解析接口：29 个
 - TVBox 规则：20 条
-- 首个站点：`subHub_notice`，用于展示项目说明和订阅入口
+- 首个站点：`drpy_js_豆瓣`，显示名覆盖为 `subHub | 搜索入口`，用于兼容客户端已记住的旧 key。
 
 ## 当前来源
 
@@ -51,8 +51,7 @@ https://raw.githubusercontent.com/SakuraByteCore/subHub/main/tvbox.json
 
 ## TVBox 合并规则
 
-- `sites[0]` 固定为 `subHub_notice`，作为 subHub 自己的公告/导航源。
-- 上游来源站点从 `sites[1]` 开始合并，避免项目入口被上游排序挤掉。
+- `drpy_js_豆瓣` 保持原 key 不变，显示名覆盖为 `subHub | 搜索入口`，避免客户端记住旧 key 后继续显示旧标题。
 - `sites`: 优先按 `key` 去重；同 key 但内容不同会给后加入的源加来源前缀，尽量保留两边内容。
 - `lives`: 按 `name + url` 去重。
 - `parses`、`rules`、`doh`: 按 `name` 去重；冲突时保留高优先级来源，低优先级来源自动改名保留。

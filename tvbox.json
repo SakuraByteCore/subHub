@@ -1,19 +1,8 @@
 {
   "sites": [
     {
-      "key": "subHub_notice",
-      "name": "subHub | 公共订阅聚合",
-      "type": 3,
-      "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "ext": "https://sakurabytecore.github.io/subHub/lib/subhub_notice.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;e727792f1b1d3c983e3026ce633b9ad5"
-    },
-    {
       "key": "drpy_js_豆瓣",
-      "name": "搜索 | 豆瓣[js]",
+      "name": "subHub | 搜索入口",
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/drpy.js",
