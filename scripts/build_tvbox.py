@@ -40,9 +40,9 @@ NOTICE_SITE = {
     "type": 3,
     "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
     "ext": "https://cdn.jsdelivr.net/gh/SakuraByteCore/subHub/lib/subhub_notice.js",
-    "searchable": 0,
+    "searchable": 1,
     "quickSearch": 0,
-    "changeable": 0,
+    "changeable": 1,
 }
 
 
