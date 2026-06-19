@@ -54,12 +54,12 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           rm -rf /tmp/subhub-gh-pages
           git clone --branch gh-pages --single-branch "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/subhub-gh-pages
           rsync -a --delete --exclude .git /tmp/subhub-pages/ /tmp/subhub-gh-pages/
           cd /tmp/subhub-gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
             echo "No Pages changes to publish."
