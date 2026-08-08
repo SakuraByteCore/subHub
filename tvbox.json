@@ -96,6 +96,17 @@
       "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;aa23687f6d958550651c1d49f3c2651b"
     },
     {
+      "key": "TVB云播",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "https://qist.wyfc.qzz.io/py/TVB云播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;aa23687f6d958550651c1d49f3c2651b"
+    },
+    {
       "key": "qiletv",
       "name": "奇乐影视",
       "type": 3,
