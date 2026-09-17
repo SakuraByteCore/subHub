@@ -9,7 +9,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "配置中心",
@@ -23,14 +23,14 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "本地",
       "name": "本地 • 视频",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "预告",
@@ -38,7 +38,7 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "新闪雷",
@@ -49,7 +49,7 @@
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "fyyy",
@@ -67,7 +67,7 @@
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "cupfox_in",
@@ -82,7 +82,7 @@
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "italkbbtv",
@@ -93,7 +93,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "OleLive",
@@ -104,7 +104,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "华数",
@@ -115,7 +115,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "华谊影视",
@@ -126,7 +126,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "Didahd",
@@ -137,7 +137,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "TVB云播",
@@ -148,7 +148,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "热播影视",
@@ -161,7 +161,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "一起影视",
@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "爱看",
@@ -182,7 +182,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://43.248.117.123:4680",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "咕噜",
@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "布布",
@@ -210,7 +210,7 @@
         "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
         "sign": "ddtvf65f3a83d6d9ad6f"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "马猴影视",
@@ -227,14 +227,14 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "韩圈",
       "name": "韩圈 • APP",
       "type": 3,
       "api": "csp_Hxq",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "剧圈99",
@@ -249,7 +249,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "半日99",
@@ -264,7 +264,7 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "天堂",
@@ -285,7 +285,7 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "橘汁",
@@ -306,7 +306,7 @@
         "version": "3.0.2.4",
         "decrypt": "1"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "华谊",
@@ -327,7 +327,7 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "苹果",
@@ -348,7 +348,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "蓝鹰",
@@ -364,7 +364,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "蓝鸟",
@@ -380,7 +380,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "世界",
@@ -394,7 +394,7 @@
         "dataKey": "O3K6rYx75Q4xtiIE",
         "dataIv": "O3K6rYx75Q4xtiIE"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "魔方",
@@ -408,7 +408,7 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "王子",
@@ -422,7 +422,7 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "茉莉",
@@ -436,7 +436,7 @@
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩合集",
@@ -455,7 +455,7 @@
         "n": "哔哩合集",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩视频",
@@ -473,7 +473,7 @@
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "玩偶",
@@ -493,7 +493,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "快映",
@@ -511,7 +511,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "木偶",
@@ -531,7 +531,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "闪电",
@@ -548,7 +548,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "多多",
@@ -567,7 +567,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "虎斑",
@@ -585,7 +585,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "种子",
@@ -603,7 +603,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "夸父",
@@ -624,7 +624,7 @@
         "cookie": "bbs_sid=qovfaruectri75sqq38blhqt7o; bbs_token=Bvf498_2FJNbnAe_2Fse39EweDe_2BlQnFYo4s_2FpFtyHueqcGKOssB"
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "123",
@@ -645,7 +645,7 @@
         ]
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "指南",
@@ -656,7 +656,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "爱盼",
@@ -667,7 +667,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "移动",
@@ -678,7 +678,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "人人",
@@ -689,7 +689,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "即刻",
@@ -703,7 +703,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "双星",
@@ -717,7 +717,7 @@
         "type": "list"
       },
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "七猫短剧",
@@ -725,7 +725,7 @@
       "type": 3,
       "api": "csp_ShortQimao",
       "genre": "shortdrama",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "河马短剧",
@@ -733,7 +733,7 @@
       "type": 3,
       "api": "csp_ShortHema",
       "genre": "shortdrama",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "围观短剧",
@@ -741,7 +741,7 @@
       "type": 3,
       "api": "csp_ShortWeiguan",
       "genre": "shortdrama",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "好看短剧",
@@ -749,7 +749,7 @@
       "type": 3,
       "api": "csp_ShortHaokan",
       "genre": "shortdrama",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "星芽短剧",
@@ -757,7 +757,7 @@
       "type": 3,
       "api": "csp_ShortXingya",
       "genre": "shortdrama",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "果果短剧",
@@ -771,21 +771,21 @@
         "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
       },
       "genre": "shortdrama",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
       "api": "csp_Feiyu",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "独播影视",
       "name": "独播 • 影视",
       "type": 3,
       "api": "csp_Duboku",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "厂长影视",
@@ -796,7 +796,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cz01.vip",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "金牌影视",
@@ -804,7 +804,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "骚火影视",
@@ -812,7 +812,7 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "枫叶影视",
@@ -820,7 +820,7 @@
       "type": 3,
       "api": "csp_FengYe",
       "ext": "https://www.vip1949.com/",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "爱看机器人",
@@ -830,7 +830,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "面包影视",
@@ -844,7 +844,7 @@
         "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
         "简介": "简介：&&"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "永乐影视",
@@ -858,7 +858,7 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "1905",
@@ -868,7 +868,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "番社动漫",
@@ -896,7 +896,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "双星99",
@@ -912,7 +912,7 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "咕咕动漫",
@@ -925,7 +925,7 @@
         "dataKey": "nKfZ8KX6JTNWRzTD",
         "dataIv": "nKfZ8KX6JTNWRzTD"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "巴士动漫",
@@ -944,14 +944,14 @@
         "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
         "倒序": "1"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "荐片",
       "name": "荐片 • 磁力",
       "api": "csp_JianPian",
       "type": 3,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "New6v",
@@ -962,7 +962,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "美剧迷",
@@ -972,7 +972,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "迅雷吧",
@@ -983,7 +983,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "阿里云盘",
@@ -997,7 +997,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "夸克网盘",
@@ -1011,7 +1011,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "UC网盘",
@@ -1025,7 +1025,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "百度网盘",
@@ -1039,7 +1039,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "迅雷云盘",
@@ -1053,7 +1053,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "光鸭云盘",
@@ -1067,7 +1067,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "天翼云盘",
@@ -1081,7 +1081,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "123云盘",
@@ -1095,7 +1095,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "聚合",
@@ -1106,7 +1106,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "盘搜",
@@ -1117,7 +1117,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "百酷",
@@ -1128,7 +1128,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "酷乐",
@@ -1139,7 +1139,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "鬼鬼",
@@ -1150,7 +1150,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "趣盘",
@@ -1161,7 +1161,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "88看球",
@@ -1174,7 +1174,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "瓜子体育",
@@ -1187,7 +1187,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "咖啡体育",
@@ -1200,7 +1200,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "呦呦DJ",
@@ -1213,20 +1213,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
-    },
-    {
-      "key": "轮回DJ",
-      "name": "轮回 • DJ",
-      "type": 3,
-      "api": "csp_Djlh",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "蜻蜓FM",
@@ -1239,7 +1226,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "世界听书",
@@ -1252,7 +1239,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "堇夏听书",
@@ -1266,7 +1253,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "博看听书",
@@ -1279,7 +1266,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "戏曲多多",
@@ -1292,7 +1279,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "童趣",
@@ -1306,7 +1293,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "兔小贝",
@@ -1320,7 +1307,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "贝乐虎",
@@ -1334,7 +1321,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩哔哩音乐",
@@ -1352,7 +1339,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩哔哩听书",
@@ -1370,7 +1357,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩哔哩相声",
@@ -1388,7 +1375,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩哔哩小品",
@@ -1406,7 +1393,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -1424,7 +1411,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "少儿教育",
@@ -1442,7 +1429,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "小学课堂",
@@ -1460,7 +1447,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "初中课堂",
@@ -1478,7 +1465,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "高中课堂",
@@ -1496,7 +1483,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "急救教学",
@@ -1511,7 +1498,7 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "养生堂",
@@ -1525,7 +1512,7 @@
         "type": "rect",
         "ratio": 1.618
       },
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "电影天堂",
@@ -1892,7 +1879,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_360影视",
@@ -1900,7 +1887,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/360影视.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_百忙无果",
@@ -1908,7 +1895,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/百忙无果.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_腾云驾雾",
@@ -1916,7 +1903,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/腾云驾雾.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_奇珍异兽",
@@ -1924,7 +1911,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/奇珍异兽.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_菜狗",
@@ -1932,7 +1919,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/菜狗.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_优酷",
@@ -1940,7 +1927,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/优酷.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_Anime1动畫",
@@ -1948,7 +1935,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/Anime1动畫.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_NT动漫",
@@ -1956,7 +1943,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/NT动漫.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_路漫漫",
@@ -1964,7 +1951,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/路漫漫.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_去看吧",
@@ -1972,7 +1959,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/去看吧.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_A8音乐",
@@ -1980,7 +1967,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/A8音乐.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_DJ音乐",
@@ -1993,7 +1980,7 @@
         "ratio": 1
       },
       "ext": "https://qist.wyfc.qzz.io/js/DJ音乐.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -2002,7 +1989,7 @@
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "changeable": 0,
       "ext": "https://qist.wyfc.qzz.io/js/蜻蜓FM.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_爱上你听书网",
@@ -2015,7 +2002,7 @@
         "ratio": 1
       },
       "ext": "https://qist.wyfc.qzz.io/js/爱上你听书网.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_博看听书",
@@ -2028,7 +2015,7 @@
         "ratio": 1
       },
       "ext": "https://qist.wyfc.qzz.io/js/博看听书.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_海洋听书",
@@ -2041,7 +2028,7 @@
         "ratio": 1
       },
       "ext": "https://qist.wyfc.qzz.io/js/海洋听书.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_有声小说",
@@ -2054,7 +2041,7 @@
         "ratio": 1
       },
       "ext": "https://qist.wyfc.qzz.io/js/有声小说吧.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_播客",
@@ -2062,7 +2049,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/播客.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_酷6网",
@@ -2071,7 +2058,7 @@
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "changeable": 0,
       "ext": "https://qist.wyfc.qzz.io/js/酷6网.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "drpy_js_网易公版影像",
@@ -2084,7 +2071,7 @@
         "ratio": 1.597
       },
       "ext": "https://qist.wyfc.qzz.io/js/网易公版影像.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "push_agent",
@@ -2094,7 +2081,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "bb",
@@ -2102,7 +2089,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/drpy.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "cc",
@@ -2110,7 +2097,7 @@
       "type": 3,
       "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
       "ext": "https://qist.wyfc.qzz.io/js/drpy.js",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5"
+      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce"
     },
     {
       "key": "点我切源",
@@ -2762,7 +2749,7 @@
       "ua": "okHttp/Mod-1.5.0.0"
     }
   ],
-  "spider": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;9faf2acc96a8457b2aa88fe4707e02f5",
+  "spider": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;8955438dfb72b640c1b1bb4e9c382dce",
   "wallpaper": "https://wallpaper-1tg.pages.dev/",
   "parses": [
     {
