@@ -174,17 +174,6 @@
       "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;abc13beac287a298e6b7ca91af7404cd"
     },
     {
-      "key": "爱看",
-      "name": "爱看 • APP",
-      "type": 3,
-      "api": "csp_AiKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:14680",
-      "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;abc13beac287a298e6b7ca91af7404cd"
-    },
-    {
       "key": "咕噜",
       "name": "咕噜 • APP",
       "type": 3,
@@ -617,7 +606,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.hjzhencai.top"
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
         ]
       },
       "timeout": 60,
