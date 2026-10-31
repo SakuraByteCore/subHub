@@ -810,6 +810,12 @@
       "jar": "https://qist.wyfc.qzz.io/jar/spider.jar;md5;a4638e7ba814dd552472501335ecdc47"
     },
     {
+      "key": "巨量",
+      "name": "巨量 • 影视",
+      "type": 1,
+      "api": "https://api.juliang.live/api/provide/vod"
+    },
+    {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
