@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-15T06:36:56+00:00",
+  "built_at": "2026-11-15T18:53:09+00:00",
   "sources": [
     {
       "id": "qist",
@@ -25,22 +25,26 @@
       "priority": 20,
       "ok": true,
       "counts": {
-        "sites": 42,
-        "lives": 7,
-        "rules": 1,
-        "hosts": 2
+        "sites": 59,
+        "lives": 10,
+        "parses": 40,
+        "rules": 10,
+        "doh": 5,
+        "hosts": 5,
+        "flags": 61,
+        "ads": 1
       }
     }
   ],
   "counts": {
-    "sites": 204,
-    "lives": 10,
-    "parses": 29,
-    "hosts": 7,
+    "sites": 220,
+    "lives": 13,
+    "parses": 42,
+    "hosts": 5,
     "flags": 61,
-    "doh": 5,
-    "rules": 20,
-    "ads": 60
+    "doh": 6,
+    "rules": 26,
+    "ads": 61
   },
   "generated": {
     "site_name_overrides": {
