@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-16T22:07:01+00:00",
+  "built_at": "2026-11-17T20:57:47+00:00",
   "sources": [
     {
       "id": "qist",
@@ -8,7 +8,7 @@
       "priority": 10,
       "ok": true,
       "counts": {
-        "sites": 162,
+        "sites": 163,
         "lives": 3,
         "parses": 29,
         "rules": 19,
@@ -37,7 +37,7 @@
     }
   ],
   "counts": {
-    "sites": 220,
+    "sites": 221,
     "lives": 13,
     "parses": 42,
     "hosts": 5,
